@@ -1,6 +1,5 @@
 package tech.lungu.atlassian.plugin.api;
 
-public interface MyPluginComponent
-{
+public interface MyPluginComponent {
     String getName();
 }
